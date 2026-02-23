@@ -30,13 +30,13 @@ About This Course:
 ### Setup .env file
 
 ```bash
-MONGO_URI=mongodb+srv://arifcse209_db_user:eBbddx2YUhDH5ox7@advanced-auth.4a5dnwp.mongodb.net/?appName=advanced-auth
+MONGO_URI=
 PORT=5000
 JWT_SECRET=your_secret_key
 NODE_ENV=development
 
-MAILTRAP_TOKEN=098d35202f7552f779ce94df3fab206b
-MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
+MAILTRAP_TOKEN=
+MAILTRAP_ENDPOINT=
 
 CLIENT_URL= http://localhost:5173
 ```
